@@ -1,11 +1,13 @@
 # Shaylee
 
+***
 
 #### brief intro
-*play piano
-*read book
-*do yoga
-*
+* play piano
+* read poetry
+* do yoga
+* do gymnastics
+
 
 
 ***
